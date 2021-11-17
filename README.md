@@ -1,5 +1,11 @@
 # Guennyrator
 
+# Status
+* In development
+
+# License
+* not yet defined
+
 ### Credits
 * [Designed with FreeCad](https://www.freecadweb.org)
 * [ufopolitics @ overunity.com](https://overunity.com/lueling-magnet-motor/)
