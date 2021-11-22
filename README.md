@@ -19,8 +19,8 @@
 
 ### Market Parts
 * [R28,5-r25x20mm 60° - 45SH Neodym Segment Magnet S - NiCuNi](https://www.neomagnete.de/de/r28-5-r25x20mm-600-45sh-neodym-segment-magnet-s-nicuni?c=9)
-* [SKF Deep groove ball bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
+* [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
-* [Block magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
+* [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
 
 ### Materials
