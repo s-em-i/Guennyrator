@@ -26,3 +26,5 @@
 * [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
 
 ### Materials
+* [EN AW-7075-T6 3.4365 AlZnMgCu1,5 / AlZn5,5MgCu](https://www.theworldmaterial.com/al-7075-aluminum-alloy)
+* [EN ISO 4957 1.2379 X153CrMoV12](https://www.theworldmaterial.com/din-en-1-2379-steel-x153crmov12-material/)
