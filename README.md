@@ -16,7 +16,8 @@
 ### ISO's and Standard's
 * [SRAM AVID OEM Product Technical Specifications](https://web.archive.org/web/20201112033620/http://www.dirtfreak.co.jp/cycle/sram/service/avid/avid_technical_specifications_my13_updates.pdf)
 * [ISO 7380 M5x12 T25 10.9](https://www.wegertseder.com/ISO-7380-FLANSCH-Kopfschrauben-mit-TORX-angepresste-Scheibe-Flanschkopf-STAHL-10-9-verzinkt-Diameter-5)
-* [WING REPAIR WASHER 12,5x30/40x1,5 ](https://www.wegertseder.com/Kotfluegelscheiben-STAHL-verzinkt-Diameter-12,5)
+* [WING REPAIR WASHER 12,5x30/40x1,5](https://www.wegertseder.com/Kotfluegelscheiben-STAHL-verzinkt-Diameter-12,5)
+* [HEXAGON SOCKET SET SCREW WITH PIN M5X30 DIN 915](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2132-139)
 
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
