@@ -36,3 +36,8 @@
 ### Materials
 * [EN AW-7075-T6 3.4365 AlZnMgCu1,5 / AlZn5,5MgCu](https://www.theworldmaterial.com/al-7075-aluminum-alloy)
 * [EN ISO 4957 1.2379 X153CrMoV12](https://www.theworldmaterial.com/din-en-1-2379-steel-x153crmov12-material/)
+* [EN 10025:1993 S355J2+N (1.0570) ST52-3](https://www.theworldmaterial.com/1-0570-material-st52-steel-din-17100/)
+
+### Manufacture
+* [Instawerk GmbH](www.instawerk.de)
+
