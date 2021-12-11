@@ -32,6 +32,7 @@
 * [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
+* [M8 Inductive Proximity Sensor IPF0803-N](https://sg.cytron.io/p-m8-inductive-proximity-sensor)
 
 ### Materials
 * [EN AW-7075-T6 3.4365 AlZnMgCu1,5 / AlZn5,5MgCu](https://www.theworldmaterial.com/al-7075-aluminum-alloy)
