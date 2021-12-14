@@ -22,7 +22,8 @@
 * [DIN 471 33x1,5 CIRCLIP FOR SHAFT, REGULAR DESIGN, TYPE A](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1950-036)
 * [DIN 6885 A 10x8x20 C45K FEATHER KEY, HIGH PROFILE](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-566)
 * [DIN 988 SHIM RING 12x18x0,1 Steel](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1650-562)
-* [DIN 126 / ISO 7091 Washer 13,5 f. M12](https://www.wegertseder.com/ISO-7091-Scheiben-gestanzt-Produktklasse-C-Stahl-100-HV-STAHL-galvanisch-verzinkt-Diameter-12)
+* [DIN 126 / ISO 7091 Washer 13,5 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-896)
+* [DIN 126 / ISO 7091 Washer 11 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-894)
 * [ISO 7379 Close tolerance Bolt 12 M10x80 h8 steel 012.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2616-628)
 
 ### Market Parts
