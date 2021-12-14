@@ -12,6 +12,7 @@
 * [ufopolitics - LÜLING MAGNET MOTOR, REVEALED & BUILT SUCCESSFULLY_PART 1](https://www.youtube.com/watch?v=ytCVQ-OZZmM)
 * [Würth Germany - 3D Step Files from ISO's and Standard's](https://eshop.wuerth.de/Product-categories/Fasteners/140135.cyid/1401.cgid/en/US/EUR)
 * [Henkel Adhesive Technologies](https://www.henkel-adhesives.com/de/en.html)
+* [Manfred ](https://www.youtube.com/watch?v=dJ6--Fqkdjs)[Klug](https://www.youtube.com/watch?v=1gJIGtJCz-s)
 
 ### ISO's and Standard's
 * [SRAM AVID OEM Product Technical Specifications](https://web.archive.org/web/20201112033620/http://www.dirtfreak.co.jp/cycle/sram/service/avid/avid_technical_specifications_my13_updates.pdf)
