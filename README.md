@@ -20,6 +20,7 @@
 * [ISO 7380 M5x12 T25 10.9](https://www.wegertseder.com/ISO-7380-FLANSCH-Kopfschrauben-mit-TORX-angepresste-Scheibe-Flanschkopf-STAHL-10-9-verzinkt-Diameter-5)
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x20 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-055)
 * [WING REPAIR WASHER 12,5x40x1,5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-014)
+* [WING REPAIR WASHER 10,5x40x2](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-008)
 * [HEXAGON SOCKET SET SCREW WITH PIN M5X30 DIN 915](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2132-139)
 * [DIN 471 33x1,5 CIRCLIP FOR SHAFT, REGULAR DESIGN, TYPE A](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1950-036)
 * [DIN 6885 A 10x8x20 C45K FEATHER KEY, HIGH PROFILE](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-566)
