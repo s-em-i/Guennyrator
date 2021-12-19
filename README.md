@@ -13,6 +13,7 @@
 * [Würth Germany - 3D Step Files from ISO's and Standard's](https://eshop.wuerth.de/Product-categories/Fasteners/140135.cyid/1401.cgid/en/US/EUR)
 * [Henkel Adhesive Technologies](https://www.henkel-adhesives.com/de/en.html)
 * [Manfred ](https://www.youtube.com/watch?v=dJ6--Fqkdjs)[Klug](https://www.youtube.com/watch?v=1gJIGtJCz-s)
+* [Semi - Secrets of Friedrich Lüling](https://s-em-i.github.io/s-em-i.github.io-SecretsOfLueling/)
 
 ### ISO's and Standard's
 * [SRAM AVID OEM Product Technical Specifications](https://web.archive.org/web/20201112033620/http://www.dirtfreak.co.jp/cycle/sram/service/avid/avid_technical_specifications_my13_updates.pdf)
@@ -25,6 +26,7 @@
 * [DIN 988 SHIM RING 12x18x0,1 Steel](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1650-562)
 * [DIN 126 / ISO 7091 Washer 13,5 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-896)
 * [DIN 126 / ISO 7091 Washer 11 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-894)
+* [DIN 433 / ISO 7092 Washer 17 f. M16](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-620)
 * [ISO 7379 Close tolerance Bolt 12 M10x80 h8 steel 012.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2616-628)
 
 ### Market Parts
