@@ -17,7 +17,6 @@
 
 ### ISO's and Standard's
 * [SRAM AVID OEM Product Technical Specifications](https://web.archive.org/web/20201112033620/http://www.dirtfreak.co.jp/cycle/sram/service/avid/avid_technical_specifications_my13_updates.pdf)
-* [ISO 7380 M5x12 T25 10.9](https://www.wegertseder.com/ISO-7380-FLANSCH-Kopfschrauben-mit-TORX-angepresste-Scheibe-Flanschkopf-STAHL-10-9-verzinkt-Diameter-5)
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x20 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-055)
 * [WING REPAIR WASHER 12,5x40x1,5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-014)
 * [WING REPAIR WASHER 10,5x40x2](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-008)
@@ -28,9 +27,15 @@
 * [DIN 125A / ISO 7089 Washer 10,5 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1490-218)
 * [DIN 126 / ISO 7091 Washer 13,5 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-896)
 * [DIN 126 / ISO 7091 Washer 11 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-894)
+* [DIN 433 / ISO 7092 Washer 3.2 f. M3](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-604)
+* [DIN 433 / ISO 7092 Washer 4.3 f. M4](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-606)
 * [DIN 433 / ISO 7092 Washer 13 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-616)
 * [DIN 433 / ISO 7092 Washer 17 f. M16](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-620)
-* [ISO 7379 Close tolerance Bolt 12 M10x80 h8 steel 012.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2616-628)
+* [ISO 7379 Close tolerance Bolt 12 M10x80 h8 steel 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2616-628)
+* [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M10 SW17](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-210)
+* [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
+* [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
+* [ISO 7379 (similar) Close tolerance Bolt 4 M3x20 f9 steel 12.9](https://www.maedler.de/Article/619704020)
 
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
