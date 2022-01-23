@@ -18,6 +18,7 @@
 ### ISO's and Standard's
 * [SRAM AVID OEM Product Technical Specifications](https://web.archive.org/web/20201112033620/http://www.dirtfreak.co.jp/cycle/sram/service/avid/avid_technical_specifications_my13_updates.pdf)
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x20 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-055)
+* [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x30 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-058)
 * [WING REPAIR WASHER 12,5x40x1,5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-014)
 * [WING REPAIR WASHER 10,5x40x2](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-008)
 * [HEXAGON SOCKET SET SCREW WITH PIN M5X30 DIN 915](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2132-139)
@@ -34,8 +35,6 @@
 * [ISO 7379 Close tolerance Bolt 12 M10x80 h8 steel 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2616-628)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M10 SW17](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-210)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
-* [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
-* [ISO 7379 (similar) Close tolerance Bolt 4 M3x20 f9 steel 12.9](https://www.maedler.de/Article/619704020)
 
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
@@ -45,6 +44,11 @@
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
 * [M8 Inductive Proximity Sensor IPF0803-N](https://sg.cytron.io/p-m8-inductive-proximity-sensor)
+* [M8 Inductive Proximity Sensor Contrinex DW-AD-603-M8](https://www.contrinex.com/product/dw-ad-603-m8/)
+* [RUBBER/METAL BUFFER TYPE D50x30 M10x28](https://www.maedler.de/Article/68580630)
+* [RUBBER/METAL BUFFER TYPE D10x10 M4x10](https://www.maedler.de/Article/68578100)
+* [Rod end GT DIN ISO 12240-4 series K internal thread M4 right maintenance-free](https://www.maedler.de/Article/63260400)
+* [Round cylinder MI double-acting, Piston Ø8, Stroke 25, M5x0.8, 11.DM.08025](https://www.riegler.shop/gb/Product/Details/114774)
 
 ### Materials
 * [EN AW-7075-T6 3.4365 AlZnMgCu1,5 / AlZn5,5MgCu](https://www.theworldmaterial.com/al-7075-aluminum-alloy)
