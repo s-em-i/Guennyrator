@@ -26,6 +26,7 @@
 * [DIN 6885 A 10x8x20 C45K FEATHER KEY, HIGH PROFILE](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-566)
 * [DIN 988 SHIM RING 12x18x0,1 Steel](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1650-562)
 * [DIN 125A / ISO 7089 Washer 10,5 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1490-218)
+* [DIN 125A / ISO 7089 Washer 4.3 f. M4](https://www.rct-online.de/de/befestigungselemente/scheiben-und-ringe/unterlegscheibe-din-125-aus-ptfe)
 * [DIN 126 / ISO 7091 Washer 13,5 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-896)
 * [DIN 126 / ISO 7091 Washer 11 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-894)
 * [DIN 433 / ISO 7092 Washer 3.2 f. M3](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-604)
