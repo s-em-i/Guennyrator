@@ -37,6 +37,17 @@
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M10 SW17](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-210)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
 
+### Alternator Mount Parts
+#### Alternator
+* [Bosch Alternator 0124625018 14V/180A](http://stock-available-automotive.blogspot.com/2011/10/0124625018-bosch-alternators.html)
+
+#### Alternator Tensioner
+* [Turnbuckle similar DIN 1479 steel zinc-plated thread M8 length 35mm](https://www.maedler.de/Article/65385800)
+* [Rod end GT DIN ISO 12240-4 series K external thread M8 right maintenance-free](https://www.maedler.de/Article/63280800)
+* [Hexagon nut DIN 934 steel strength 8 zinc-plated thread M8 right handed](https://www.maedler.de/Article/65200800)
+* [Rod end GT DIN ISO 12240-4 series K external thread M8 left maintenance-free](https://www.maedler.de/Article/63290800)
+* [Hexagon nut DIN 934 steel strength 8 zinc-plated thread M8 left handed](https://www.maedler.de/Article/65230800)
+
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
 * [R36,5-r33x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r36-5-r33x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
