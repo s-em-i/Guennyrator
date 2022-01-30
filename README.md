@@ -40,13 +40,16 @@
 ### Alternator Mount Parts
 #### Alternator
 * [Bosch Alternator 0124625018 14V/180A](http://stock-available-automotive.blogspot.com/2011/10/0124625018-bosch-alternators.html)
-
 #### Alternator Tensioner
 * [Turnbuckle similar DIN 1479 steel zinc-plated thread M8 length 35mm](https://www.maedler.de/Article/65385800)
 * [Rod end GT DIN ISO 12240-4 series K external thread M8 right maintenance-free](https://www.maedler.de/Article/63280800)
 * [Hexagon nut DIN 934 steel strength 8 zinc-plated thread M8 right handed](https://www.maedler.de/Article/65200800)
 * [Rod end GT DIN ISO 12240-4 series K external thread M8 left maintenance-free](https://www.maedler.de/Article/63290800)
 * [Hexagon nut DIN 934 steel strength 8 zinc-plated thread M8 left handed](https://www.maedler.de/Article/65230800)
+
+### Electronic Parts
+* [M8 Inductive Proximity Sensor IPF0803-N](https://sg.cytron.io/p-m8-inductive-proximity-sensor)
+* [M8 Inductive Proximity Sensor Contrinex DW-AD-603-M8](https://www.contrinex.com/product/dw-ad-603-m8/)
 
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
@@ -55,8 +58,6 @@
 * [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
-* [M8 Inductive Proximity Sensor IPF0803-N](https://sg.cytron.io/p-m8-inductive-proximity-sensor)
-* [M8 Inductive Proximity Sensor Contrinex DW-AD-603-M8](https://www.contrinex.com/product/dw-ad-603-m8/)
 * [RUBBER/METAL BUFFER TYPE D50x30 M10x28](https://www.maedler.de/Article/68580630)
 * [RUBBER/METAL BUFFER TYPE D10x10 M4x10](https://www.maedler.de/Article/68578100)
 * [Rod end GT DIN ISO 12240-4 series K internal thread M4 right maintenance-free](https://www.maedler.de/Article/63260400)
