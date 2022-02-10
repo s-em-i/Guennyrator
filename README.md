@@ -57,7 +57,7 @@
 * [SKF Deep Groove Ball Bearings 61903-2RS1](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-61903-2RS1)
 * [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
-* [Block Magnet 18x15x10 mm approx. 9,8 kg](https://www.supermagnete.de/eng/block-magnets-neodymium/block-magnet-18mm-15mm-10mm_Q-18-15-10-Z)
+* [Round Permanent Electro Magnet Ø25 L29 3,2W 12V 120N VA 4230215](https://shop.mannel-magnet.de/pdf/ehaft/4240015.pdf)
 * [RUBBER/METAL BUFFER TYPE D50x30 M10x28](https://www.maedler.de/Article/68580630)
 * [RUBBER/METAL BUFFER TYPE D10x10 M4x10](https://www.maedler.de/Article/68578100)
 * [Rod end GT DIN ISO 12240-4 series K internal thread M4 right maintenance-free](https://www.maedler.de/Article/63260400)
