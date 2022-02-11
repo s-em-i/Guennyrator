@@ -75,11 +75,6 @@
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [RUBBER/METAL BUFFER TYPE D50x30 M10x28](https://www.maedler.de/Article/68580630)
 
-### Materials
-* [EN AW-7075-T6 3.4365 AlZnMgCu1,5 / AlZn5,5MgCu](https://www.theworldmaterial.com/al-7075-aluminum-alloy)
-* [EN ISO 4957 1.2379 X153CrMoV12](https://www.theworldmaterial.com/din-en-1-2379-steel-x153crmov12-material/)
-* [EN 10025:1993 S355J2+N (1.0570) ST52-3](https://www.theworldmaterial.com/1-0570-material-st52-steel-din-17100/)
-
 ### CNC Parts
 * Bottom / Top Plate [^1]
 * Alternator Mount Bracket Slide / Fix [^1]
