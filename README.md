@@ -22,9 +22,10 @@
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x20 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-055)
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x25 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-057)
 * [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M4x30 S3 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-058)
+* [DIN 912 / ISO 4762 HEXAGON SOCKET HEAD CAP SCREW M8x110 S6 12.9](https://www.wegertseder.com/ArticleDetails.aspx?ANR=2548-196)
+
 ### Washer / Shims
 * [Washer PTFE DIN 125 4.3x9x0.8 f. M4 (306724)](https://www.rct-online.de/en/fastening-elements/washers-and-rings/30444/washer-din-125-made-of-ptfe)
-
 * [WING REPAIR WASHER 12,5x40x1,5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-014)
 * [WING REPAIR WASHER 10,5x40x2](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-008)
 * [DIN 471 33x1,5 CIRCLIP FOR SHAFT, REGULAR DESIGN, TYPE A](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1950-036)
@@ -38,8 +39,11 @@
 * [DIN 433 / ISO 7092 Washer 4.3 f. M4](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-606)
 * [DIN 433 / ISO 7092 Washer 13 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-616)
 * [DIN 433 / ISO 7092 Washer 17 f. M16](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-620)
+* [DIN 125A / ISO 7089 Washer 8,4 f. M8](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1490-216)
+
 ### Nuts
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M10 SW17](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-210)
+* [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M8 SW13](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-208)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
 
