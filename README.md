@@ -47,7 +47,7 @@
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
 
-### Alternator Mount Parts
+### [Alternator](images/Alternator.stl) Mount Parts
 #### Alternator
 * [Bosch Alternator 0124625018 14V/180A](http://stock-available-automotive.blogspot.com/2011/10/0124625018-bosch-alternators.html)
 #### Alternator Tensioner
