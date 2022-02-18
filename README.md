@@ -77,7 +77,8 @@
 * [SKF Deep Groove Ball Bearings 61903-2RS1](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-61903-2RS1)
 * [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
-* [RUBBER/METAL BUFFER TYPE D50x30 M10x28](https://www.maedler.de/Article/68580630)
+* [RUBBER/METAL BUFFER TYPE D50x50 M10x28](https://www.maedler.de/Article/68580650)
+* [FEATHER KEY, Shape A, HIGH PROFILE, DIN 6885 C45 6X6X12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-486)
 
 ### CNC Parts
 * Bottom / Top Plate [^1]
