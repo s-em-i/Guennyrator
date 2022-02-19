@@ -37,9 +37,10 @@
 * [DIN 126 / ISO 7091 Washer 11 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1538-894)
 * [DIN 433 / ISO 7092 Washer 3.2 f. M3](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-604)
 * [DIN 433 / ISO 7092 Washer 4.3 f. M4](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-606)
+* [DIN 433 / ISO 7092 Washer 8.4 f. M8](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-612)
 * [DIN 433 / ISO 7092 Washer 13 f. M12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-616)
 * [DIN 433 / ISO 7092 Washer 17 f. M16](https://www.wegertseder.com/ArticleDetails.aspx?ANR=4497-620)
-* [DIN 125A / ISO 7089 Washer 8,4 f. M8](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1490-216)
+
 
 ### Nuts
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M10 SW17](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3344-210)
