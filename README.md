@@ -29,7 +29,7 @@
 * [WING REPAIR WASHER 12,5x40x1,5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-014)
 * [WING REPAIR WASHER 10,5x40x2](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1542-008)
 * [DIN 471 33x1,5 CIRCLIP FOR SHAFT, REGULAR DESIGN, TYPE A](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1950-036)
-* [DIN 6885 A 10x8x20 C45K FEATHER KEY, HIGH PROFILE](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-566)
+* [DIN 6885 A 6X6X10 C45K FEATHER KEY, HIGH PROFILE](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-484)
 * [DIN 988 SHIM RING 12x18x0,1 Steel](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1650-562)
 * [DIN 125A / ISO 7089 Washer 10,5 f. M10](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1490-218)
 * [DIN 125A / ISO 7089 Washer 4.3 f. M4](https://www.rct-online.de/de/befestigungselemente/scheiben-und-ringe/unterlegscheibe-din-125-aus-ptfe)
@@ -76,10 +76,8 @@
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
 * [R36,5-r33x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r36-5-r33x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
 * [SKF Deep Groove Ball Bearings 61903-2RS1](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-61903-2RS1)
-* [SKF Deep Groove Ball Bearings 6003-2RSL](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-6003-2RSL)
 * [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [RUBBER/METAL BUFFER TYPE D50x50 M10x28](https://www.maedler.de/Article/68580650)
-* [FEATHER KEY, Shape A, HIGH PROFILE, DIN 6885 C45 6X6X12](https://www.wegertseder.com/ArticleDetails.aspx?ANR=1848-486)
 
 ### CNC Parts
 * Bottom / Top Plate [^1]
@@ -87,10 +85,14 @@
 * Base Wheel [^1]
 * Arc Holder (Convex) [^3]
 * Arc Holder (Concave) [^3]
-* Axle Bushes [^1]
 * Stopper Clamp [^1]
 * Piston Swing [^1]
 * PEM Clamp [^1]
+
+### Axle Bushes
+* Axle Bushes V1 [^1] 19x(21.5-3.5)x12.2 - Kick Wheel Bearings
+* Axle Bushes V2 [^1] 19x(25-3.5-3.5)x12.2 - Fly Wheel Bearings
+* [Axle Bushes V3 [^1] 20x10x12.5 - Repulsion Sets Distance Spacer](https://www.edelstahldepot.de/distanzhuelse-abstandshuelse-abstandshalter-abstandhalter-fuer-m8-aluminium-blank-20x10-mm)
 
 ### Manufacture
 * [Instawerk GmbH](www.instawerk.de)
