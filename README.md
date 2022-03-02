@@ -76,8 +76,12 @@
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
 * [R36,5-r33x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r36-5-r33x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
 * [SKF Deep Groove Ball Bearings 61903-2RS1](https://www.skf.com/us/products/rolling-bearings/ball-bearings/deep-groove-ball-bearings/productid-61903-2RS1)
-* [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
 * [RUBBER/METAL BUFFER TYPE D50x50 M10x28](https://www.maedler.de/Article/68580650)
+
+### Adhesive
+* [LOCTITE AA 3342 - coated Magnet to Steel Adhesive](https://www.henkel-adhesives.com/de/en/product/structural-adhesives/loctite_aa_3342.html)
+* [LOCTITE SF 7386 - liquid activator](https://www.henkel-adhesives.com/de/en/product/industrial-adhesives/loctite_sf_7386.html)
+* [LOCTITE SF 7063 - Parts Cleaner - general purpose](https://www.henkel-adhesives.com/de/en/product/industrial-degreasers/loctite_sf_7063.html)
 
 ### CNC Parts
 * Bottom / Top Plate [^1]
@@ -92,7 +96,7 @@
 ### Axle Bushes
 * Axle Bushes V1 [^1] 19x(21.5-3.5)x12.2 - Kick Wheel Bearings
 * Axle Bushes V2 [^1] 19x(25-3.5-3.5)x12.2 - Fly Wheel Bearings
-* [Axle Bushes V3 [^1] 20x10x12.5 - Repulsion Sets Distance Spacer](https://www.edelstahldepot.de/distanzhuelse-abstandshuelse-abstandshalter-abstandhalter-fuer-m8-aluminium-blank-20x10-mm)
+* [Axle Bushes V3 [^1] 20x20x12.5 - Repulsion Sets Distance Spacer](https://www.edelstahldepot.de/distanzhuelse-abstandshuelse-abstandshalter-abstandhalter-fuer-m8-aluminium-blank-20x20-mm)
 
 ### Manufacture
 * [Instawerk GmbH](www.instawerk.de)
