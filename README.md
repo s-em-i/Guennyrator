@@ -48,7 +48,7 @@
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
 
-### [Alternator](images/Alternator.stl) Mount Parts
+### [Alternator](images/Alternator_Assembly.stl) Mount Parts
 #### Alternator
 * [Bosch Alternator 0124625018 14V/180A](http://stock-available-automotive.blogspot.com/2011/10/0124625018-bosch-alternators.html)
 #### Alternator Tensioner
@@ -69,8 +69,9 @@
 #### Piston Stopper
 * [RUBBER/METAL BUFFER TYPE D10x10 M4x10](https://www.maedler.de/Article/68578100)
 
-### Permanent Electro Magnet
+### [(P)ermanent (E)lectro (M)agnet Assembly](images/PEM_Assembly.stl) Parts
 * [Round Permanent Electro Magnet Ø25 L29 3,2W 12V 120N VA 4230215](https://shop.mannel-magnet.de/pdf/ehaft/4240015.pdf)
+* PEM Clamp [^1]
 
 ### Market Parts
 * [R32,5-r29x20mm 60° - 45SH Neodym Segment Magnet N - NiCuNi](https://www.neomagnete.de/de/r32-5-r29x20mm-600-45sh-neodym-segment-magnet-n-nicuni?c=9)
@@ -84,14 +85,13 @@
 * [LOCTITE SF 7063 - Parts Cleaner - general purpose](https://www.henkel-adhesives.com/de/en/product/industrial-degreasers/loctite_sf_7063.html)
 
 ### CNC Parts
-* Bottom / Top Plate [^1]
+* [Bottom / Top Plate](images/BootomPlate.stl) [^1]
 * Alternator Mount Bracket Slide / Fix [^1]
 * Base Wheel [^1]
 * Arc Holder (Convex) [^3]
 * Arc Holder (Concave) [^3]
 * Stopper Clamp [^1]
 * Piston Swing [^1]
-* PEM Clamp [^1]
 
 ### Axle Bushes
 * Axle Bushes V1 [^1] 19x(21.5-3.5)x12.2 - Kick Wheel Bearings
