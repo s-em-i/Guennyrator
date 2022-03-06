@@ -48,10 +48,11 @@
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M4 SW7](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-142)
 * [DIN 985 / ISO 10511 Hexagon Nut Self-Locking Low Profile M3 SW5.5](https://www.wegertseder.com/ArticleDetails.aspx?ANR=3340-140)
 
-### [Alternator](images/Alternator_Assembly.stl) Mount Parts
+### [Alternator Assembly](images/Alternator_Assembly.stl) Parts
 #### Alternator
 * [Bosch Alternator 0124625018 14V/180A](http://stock-available-automotive.blogspot.com/2011/10/0124625018-bosch-alternators.html)
 #### Alternator Tensioner
+* Alternator Mount Bracket Slide / Fix [^1]
 * [Turnbuckle similar DIN 1479 steel zinc-plated thread M8 length 35mm](https://www.maedler.de/Article/65385800)
 * [Rod end GT DIN ISO 12240-4 series K external thread M8 right maintenance-free](https://www.maedler.de/Article/63280800)
 * [Hexagon nut DIN 934 steel strength 8 zinc-plated thread M8 right handed](https://www.maedler.de/Article/65200800)
@@ -86,7 +87,6 @@
 
 ### CNC Parts
 * [Bottom / Top Plate](images/BootomPlate.stl) [^1]
-* Alternator Mount Bracket Slide / Fix [^1]
 * Base Wheel [^1]
 * Arc Holder (Convex) [^3]
 * Arc Holder (Concave) [^3]
