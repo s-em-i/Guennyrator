@@ -1,7 +1,7 @@
 # Guennyrator
 
 # Status
-* In development
+* Paused
 
 # License
 * not yet defined
